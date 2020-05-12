@@ -1,2 +1,6 @@
-# provenance-vis-prototype
-js/d3 version of provenance vis prototype
+# Prototype Views
+
+This repository contains a d3/js version of the provenance visualization project 
+
+
+

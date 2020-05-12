@@ -1,0 +1,32 @@
+
+
+    .wrapper {  display: grid;  
+        grid-template-columns: .2fr .5fr 1fr 1fr; 
+         grid-gap: 2rem;
+        padding:1rem}
+
+        .scatter{
+            r:3px;
+            opacity:.5;
+        }
+
+
+   .taskLabel{
+       font-size:12px;
+       fill:white;
+   }
+
+   .accLabel{
+    font-size:10px;
+    fill:white;
+   }
+    .panel{
+        background-color:rgba(165, 165, 165, 0.262);
+    }
+
+
+    #configPanel{
+        /* grid-row-start: 1;  grid-row-end: 4; */
+        
+    }
+  
